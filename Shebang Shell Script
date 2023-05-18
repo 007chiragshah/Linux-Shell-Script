@@ -1,1 +1,0 @@
-If we are not using #!/bin/bash and running the script with sh then our script will run on shell.
